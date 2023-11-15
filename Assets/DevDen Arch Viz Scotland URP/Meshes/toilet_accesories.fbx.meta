@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 1a23d269dfaef4545a40580882de5b8d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CESTA_001
+    100002: CESTA_002
+    100004: DOBRADA_001
+    100006: DOBRADA_002
+    100008: DOBRADA_003
+    100010: Group#22_001
+    100012: Group#22_002
+    100014: Group#22_003
+    100016: Group#22_004
+    100018: Group#22_005
+    100020: Group#22_006
+    100022: Group#22_007
+    100024: Group_001
+    100026: Group_002
+    100028: Group_003
+    100030: Group_004
+    100032: PAPEL_003
+    100034: PAPEL_004
+    100036: PAPEL_005
+    100038: PAPEL_006
+    100040: PAPEL_007
+    100042: PAPEL_008
+    100044: PAPEL_009
+    100046: PAPEL_010
+    100048: PAPEL_011
+    100050: PAPEL_012
+    100052: PAPEL_013
+    100054: PAPEL_014
+    100056: //RootNode
+    400000: CESTA_001
+    400002: CESTA_002
+    400004: DOBRADA_001
+    400006: DOBRADA_002
+    400008: DOBRADA_003
+    400010: Group#22_001
+    400012: Group#22_002
+    400014: Group#22_003
+    400016: Group#22_004
+    400018: Group#22_005
+    400020: Group#22_006
+    400022: Group#22_007
+    400024: Group_001
+    400026: Group_002
+    400028: Group_003
+    400030: Group_004
+    400032: PAPEL_003
+    400034: PAPEL_004
+    400036: PAPEL_005
+    400038: PAPEL_006
+    400040: PAPEL_007
+    400042: PAPEL_008
+    400044: PAPEL_009
+    400046: PAPEL_010
+    400048: PAPEL_011
+    400050: PAPEL_012
+    400052: PAPEL_013
+    400054: PAPEL_014
+    400056: //RootNode
+    2300000: CESTA_001
+    2300002: CESTA_002
+    2300004: DOBRADA_001
+    2300006: DOBRADA_002
+    2300008: DOBRADA_003
+    2300010: Group#22_001
+    2300012: Group#22_002
+    2300014: Group#22_003
+    2300016: Group#22_004
+    2300018: Group#22_005
+    2300020: Group#22_006
+    2300022: Group#22_007
+    2300024: Group_001
+    2300026: Group_002
+    2300028: Group_003
+    2300030: Group_004
+    2300032: PAPEL_003
+    2300034: PAPEL_004
+    2300036: PAPEL_005
+    2300038: PAPEL_006
+    2300040: PAPEL_007
+    2300042: PAPEL_008
+    2300044: PAPEL_009
+    2300046: PAPEL_010
+    2300048: PAPEL_011
+    2300050: PAPEL_012
+    2300052: PAPEL_013
+    2300054: PAPEL_014
+    3300000: CESTA_001
+    3300002: CESTA_002
+    3300004: DOBRADA_001
+    3300006: DOBRADA_002
+    3300008: DOBRADA_003
+    3300010: Group#22_001
+    3300012: Group#22_002
+    3300014: Group#22_003
+    3300016: Group#22_004
+    3300018: Group#22_005
+    3300020: Group#22_006
+    3300022: Group#22_007
+    3300024: Group_001
+    3300026: Group_002
+    3300028: Group_003
+    3300030: Group_004
+    3300032: PAPEL_003
+    3300034: PAPEL_004
+    3300036: PAPEL_005
+    3300038: PAPEL_006
+    3300040: PAPEL_007
+    3300042: PAPEL_008
+    3300044: PAPEL_009
+    3300046: PAPEL_010
+    3300048: PAPEL_011
+    3300050: PAPEL_012
+    3300052: PAPEL_013
+    3300054: PAPEL_014
+    4300000: PAPEL_014
+    4300002: PAPEL_013
+    4300004: PAPEL_012
+    4300006: PAPEL_011
+    4300008: PAPEL_010
+    4300010: PAPEL_009
+    4300012: PAPEL_008
+    4300014: PAPEL_007
+    4300016: PAPEL_006
+    4300018: PAPEL_005
+    4300020: PAPEL_004
+    4300022: PAPEL_003
+    4300024: DOBRADA_003
+    4300026: DOBRADA_002
+    4300028: DOBRADA_001
+    4300030: CESTA_002
+    4300032: Group#22_007
+    4300034: Group#22_006
+    4300036: Group#22_005
+    4300038: Group#22_004
+    4300040: Group#22_003
+    4300042: Group#22_002
+    4300044: Group#22_001
+    4300046: CESTA_001
+    4300048: Group_004
+    4300050: Group_003
+    4300052: Group_002
+    4300054: Group_001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toilet_paper
+    second: {fileID: 2100000, guid: e864f56ca7fbdb344b96256b80c6ed1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toilet_wood1
+    second: {fileID: 2100000, guid: 29534a1eeec33734b90c42ba7a7066e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toilet_wood_1
+    second: {fileID: 2100000, guid: 14259a3d61c05b84ea4e1476ec90718a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: towel
+    second: {fileID: 2100000, guid: 2e0133ff28d63144dbfed81650b8abbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: towel2
+    second: {fileID: 2100000, guid: 92dc008d350dc224487808646ee43e0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: towl_2
+    second: {fileID: 2100000, guid: e62dcff55c629be409b1e0354702e23e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["CESTA_002"],"padding":[64],"unwrapper":[0]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 3.0479999
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

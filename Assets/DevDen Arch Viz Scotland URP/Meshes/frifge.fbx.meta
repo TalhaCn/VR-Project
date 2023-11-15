@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 2a45774a416f6214f85ef24206f73581
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: fridge
+    100002: //RootNode
+    100004: polySurface1234
+    100006: polySurface1235
+    100008: polySurface1236
+    100010: polySurface569
+    100012: polySurface569 1
+    100014: polySurface570
+    100016: polySurface571
+    100018: polySurface572
+    100020: polySurface573
+    100022: polySurface574
+    100024: transform10
+    100026: transform11
+    100028: transform12
+    100030: transform13
+    100032: transform14
+    100034: transform15
+    400000: fridge
+    400002: //RootNode
+    400004: polySurface1234
+    400006: polySurface1235
+    400008: polySurface1236
+    400010: polySurface569
+    400012: polySurface569 1
+    400014: polySurface570
+    400016: polySurface571
+    400018: polySurface572
+    400020: polySurface573
+    400022: polySurface574
+    400024: transform10
+    400026: transform11
+    400028: transform12
+    400030: transform13
+    400032: transform14
+    400034: transform15
+    2300000: polySurface1234
+    2300002: polySurface1235
+    2300004: polySurface1236
+    2300006: polySurface569
+    3300000: polySurface1234
+    3300002: polySurface1235
+    3300004: polySurface1236
+    3300006: polySurface569
+    4300000: polySurface569
+    4300002: polySurface1234
+    4300004: polySurface1235
+    4300006: polySurface1236
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold_tap_handle
+    second: {fileID: 2100000, guid: fa5f85b9119040d48b09a9af628604ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green_wood
+    second: {fileID: 2100000, guid: 258f40f68e0ec5a42b234edd6f953a9a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["polySurface569","polySurface1234","polySurface1235","polySurface1236"],"padding":[7,256,256,256],"unwrapper":[0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.30479997
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

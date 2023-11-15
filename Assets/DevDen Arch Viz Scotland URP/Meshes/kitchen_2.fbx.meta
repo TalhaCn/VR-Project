@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 47ad5b770e454a146bc224c43a690f92
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group1
+    100002: //RootNode
+    100004: kitchen_set_
+    100006: polySurface1230
+    100008: polySurface1231
+    100010: polySurface1232
+    100012: polySurface1233
+    100014: polySurface605
+    100016: polySurface606
+    100018: polySurface607
+    100020: polySurface608
+    100022: polySurface609
+    100024: polySurface610
+    100026: polySurface611
+    100028: polySurface612
+    100030: polySurface613
+    100032: polySurface614
+    100034: polySurface615
+    100036: polySurface616
+    100038: polySurface617
+    100040: polySurface618
+    100042: polySurface713
+    100044: shelf_30
+    100046: shelf_31
+    100048: shelf_32
+    100050: shelf_33
+    100052: shelf_34
+    400000: group1
+    400002: //RootNode
+    400004: kitchen_set_
+    400006: polySurface1230
+    400008: polySurface1231
+    400010: polySurface1232
+    400012: polySurface1233
+    400014: polySurface605
+    400016: polySurface606
+    400018: polySurface607
+    400020: polySurface608
+    400022: polySurface609
+    400024: polySurface610
+    400026: polySurface611
+    400028: polySurface612
+    400030: polySurface613
+    400032: polySurface614
+    400034: polySurface615
+    400036: polySurface616
+    400038: polySurface617
+    400040: polySurface618
+    400042: polySurface713
+    400044: shelf_30
+    400046: shelf_31
+    400048: shelf_32
+    400050: shelf_33
+    400052: shelf_34
+    2100000: green_wood
+    2100002: gold_tap_handle
+    2300000: polySurface1230
+    2300002: polySurface1231
+    2300004: polySurface1232
+    2300006: polySurface1233
+    2300008: polySurface605
+    2300010: polySurface606
+    2300012: polySurface607
+    2300014: polySurface608
+    2300016: polySurface609
+    2300018: polySurface610
+    2300020: polySurface611
+    2300022: polySurface612
+    2300024: polySurface613
+    2300026: polySurface614
+    2300028: polySurface615
+    2300030: polySurface616
+    2300032: polySurface617
+    2300034: polySurface618
+    2300036: polySurface713
+    2300038: shelf_30
+    2300040: shelf_31
+    2300042: shelf_32
+    2300044: shelf_33
+    2300046: shelf_34
+    3300000: polySurface1230
+    3300002: polySurface1231
+    3300004: polySurface1232
+    3300006: polySurface1233
+    3300008: polySurface605
+    3300010: polySurface606
+    3300012: polySurface607
+    3300014: polySurface608
+    3300016: polySurface609
+    3300018: polySurface610
+    3300020: polySurface611
+    3300022: polySurface612
+    3300024: polySurface613
+    3300026: polySurface614
+    3300028: polySurface615
+    3300030: polySurface616
+    3300032: polySurface617
+    3300034: polySurface618
+    3300036: polySurface713
+    3300038: shelf_30
+    3300040: shelf_31
+    3300042: shelf_32
+    3300044: shelf_33
+    3300046: shelf_34
+    4300000: polySurface605
+    4300002: shelf_30
+    4300004: polySurface606
+    4300006: polySurface607
+    4300008: polySurface608
+    4300010: polySurface609
+    4300012: shelf_31
+    4300014: polySurface610
+    4300016: polySurface611
+    4300018: polySurface612
+    4300020: shelf_32
+    4300022: polySurface613
+    4300024: polySurface614
+    4300026: shelf_33
+    4300028: shelf_34
+    4300030: polySurface615
+    4300032: polySurface616
+    4300034: polySurface617
+    4300036: polySurface618
+    4300038: polySurface713
+    4300040: polySurface1230
+    4300042: polySurface1231
+    4300044: polySurface1232
+    4300046: polySurface1233
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold_tap_handle
+    second: {fileID: 2100000, guid: 39f8e65c13cea2a45979dc42feba14a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green_wood
+    second: {fileID: 2100000, guid: de54296d2017e204a912ae037e46c387, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

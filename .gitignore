@@ -1,0 +1,24 @@
+# Unity specific
+[Tt]emp/
+[Ll]ibrary/
+[Ll]ogs/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj.user
+*.sln.docstates
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
